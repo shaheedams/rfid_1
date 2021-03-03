@@ -1,0 +1,34 @@
+.topic{
+  position: relative;
+  left: 100px;
+  bottom: 100px;
+}
+h4{
+  position: relative;
+  left: 100px;
+  bottom: 100px;
+}
+.company_details{
+  height: 100px;
+
+}
+.name{
+  position: relative;
+  left: 120px;
+  bottom: 80px;
+}
+.table{
+  position:relative;
+  bottom: 50px;
+  left: 30px;
+}
+.monitoring,td{
+
+border: 2px solid;
+}
+th{
+  background-color:grey;
+}
+body{
+  background-color: #dfd3d3;
+}
